@@ -1,6 +1,6 @@
 - I’m Jared ......
 - Python ......
-- Rust .
+- Rust ..
 
 <!---
 Jared033/Jared033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
