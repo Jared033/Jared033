@@ -1,4 +1,4 @@
-- I’m Jared ..
+- I’m Jared .
 - Python .
 - Rust ...
 
